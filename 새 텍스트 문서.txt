@@ -1,0 +1,136 @@
+06-30 19:15:15.456 15411-15411/com.fitogether.ohcoach I/Database: Field : 188
+06-30 19:15:15.456 15411-15411/com.fitogether.ohcoach I/Database: name : 태백 고원1구장
+06-30 19:15:15.461 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{37.13886738495617, 129.0032969368081},
+                                                                  	{37.13948237393057, 129.00419853113303},
+                                                                  	{37.139952845046196, 129.00370346349345},
+                                                                  	{37.139337852386866, 129.00280186732977}
+06-30 19:15:15.461 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10523, 6827)
+06-30 19:15:15.461 15411-15411/com.fitogether.ohcoach I/Database: Field : 189
+06-30 19:15:15.461 15411-15411/com.fitogether.ohcoach I/Database: name : 태백 고원2구장
+06-30 19:15:15.466 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{37.13969875946775, 129.00454845375538},
+                                                                  	{37.14029550171888, 129.00546659448258},
+                                                                  	{37.1407639184972, 129.00499175461778},
+                                                                  	{37.14016900344633, 129.00407139623354}
+06-30 19:15:15.466 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10507, 6694)
+06-30 19:15:15.466 15411-15411/com.fitogether.ohcoach I/Database: Field : 190
+06-30 19:15:15.466 15411-15411/com.fitogether.ohcoach I/Database: name : 태백 고원3구장
+06-30 19:15:15.471 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{37.143097943084044, 129.0082164350579},
+                                                                  	{37.14384747640798, 129.00895415818826},
+                                                                  	{37.14423194939101, 129.00834817023167},
+                                                                  	{37.14348414290653, 129.00761611299237}
+06-30 19:15:15.471 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10590, 6869)
+06-30 19:15:15.471 15411-15411/com.fitogether.ohcoach I/Database: Field : 191
+06-30 19:15:15.471 15411-15411/com.fitogether.ohcoach I/Database: name : 태백 고원4구장
+06-30 19:15:15.476 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{37.14429753694134, 129.00921418131657},
+                                                                  	{37.14503174460744, 129.00995162156053},
+                                                                  	{37.145397256452625, 129.00934863044108},
+                                                                  	{37.1446793796037, 129.00860250929068}
+06-30 19:15:15.476 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10455, 6719)
+06-30 19:15:15.476 15411-15411/com.fitogether.ohcoach I/Database: Field : 192
+06-30 19:15:15.476 15411-15411/com.fitogether.ohcoach I/Database: name : 전주 완산생활체육공원 인조A구장
+06-30 19:15:15.481 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.76580669603056, 127.10203698518895},
+                                                                  	{35.76675946847661, 127.1019636497894},
+                                                                  	{35.76672812520138, 127.1012115353049},
+                                                                  	{35.76577446999419, 127.10129041538084}
+06-30 19:15:15.481 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10592, 6810)
+06-30 19:15:15.481 15411-15411/com.fitogether.ohcoach I/Database: Field : 193
+06-30 19:15:15.481 15411-15411/com.fitogether.ohcoach I/Database: name : 전주 완산생활체육공원 인조B구장
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.765823618294235, 127.10115741796974},
+                                                                  	{35.766777310086816, 127.10108959887984},
+                                                                  	{35.766740533322135, 127.1003319803749},
+                                                                  	{35.76578504981939, 127.1004031362347}
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10599, 6863)
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: Field : 194
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: name : 전주 완산생활체육공원 인조C구장
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.767134698960945, 127.10419647811744},
+                                                                  	{35.76807213441478, 127.10411992419897},
+                                                                  	{35.76802908364656, 127.10336785457824},
+                                                                  	{35.7671024753091, 127.1034465761019}
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10424, 6817)
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: Field : 195
+06-30 19:15:15.486 15411-15411/com.fitogether.ohcoach I/Database: name : 김제시민운동장 주경기장
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.81141618875975, 126.90114388961904},
+                                                                  	{35.81231953767212, 126.90113157226035},
+                                                                  	{35.81231579672693, 126.90038112105239},
+                                                                  	{35.81141246453513, 126.90039676745151}
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10023, 6782)
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: Field : 196
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: name : 김제시민운동장 보조1구장
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.80907242318515, 126.90032248920755},
+                                                                  	{35.80997316869263, 126.90069205270412},
+                                                                  	{35.810166205776966, 126.89998773871646},
+                                                                  	{35.809269036856335, 126.89961262110985}
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10537, 6716)
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: Field : 197
+06-30 19:15:15.491 15411-15411/com.fitogether.ohcoach I/Database: name : 김제시민운동장 보조2구장
+06-30 19:15:15.496 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.80932657761495, 126.89939967087028},
+                                                                  	{35.81022818319407, 126.89976036360751},
+                                                                  	{35.810415794262674, 126.89905387227276},
+                                                                  	{35.809524070749106, 126.89868647104635}
+06-30 19:15:15.496 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10521, 6715)
+06-30 19:15:15.496 15411-15411/com.fitogether.ohcoach I/Database: Field : 198
+06-30 19:15:15.496 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 인조1구장
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.433673, 128.595535},
+                                                                  	{35.434327, 128.594722},
+                                                                  	{35.433901, 128.594199},
+                                                                  	{35.433234, 128.595014}
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10351, 6790)
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: Field : 199
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 인조2구장
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.433044, 128.594771},
+                                                                  	{35.433699, 128.593958},
+                                                                  	{35.433273, 128.593435},
+                                                                  	{35.432607, 128.594248}
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10359, 6786)
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: Field : 200
+06-30 19:15:15.501 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 인조3구장
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.431024, 128.5974},
+                                                                  	{35.431695, 128.596585},
+                                                                  	{35.43126, 128.59607},
+                                                                  	{35.430596, 128.596885}
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10497, 6664)
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: Field : 201
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 인조4구장
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.42982, 128.597253},
+                                                                  	{35.430486, 128.598057},
+                                                                  	{35.430919, 128.597536},
+                                                                  	{35.430246, 128.596724}
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10387, 6742)
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: Field : 202
+06-30 19:15:15.506 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 인조5구장
+06-30 19:15:15.511 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.430453, 128.59671},
+                                                                  	{35.43112, 128.5959},
+                                                                  	{35.430687, 128.595377},
+                                                                  	{35.430016, 128.596193}
+06-30 19:15:15.511 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10433, 6748)
+06-30 19:15:15.511 15411-15411/com.fitogether.ohcoach I/Database: Field : 203
+06-30 19:15:15.511 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 천연1구장
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.432569, 128.596878},
+                                                                  	{35.433227, 128.596055},
+                                                                  	{35.432816, 128.595532},
+                                                                  	{35.432156, 128.59635}
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10447, 6632)
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: Field : 204
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: name : 창녕스포츠파크 천연2구장
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: corners : 
+                                                                  	{35.431957, 128.596109},
+                                                                  	{35.432604, 128.595302},
+                                                                  	{35.432175, 128.594757},
+                                                                  	{35.431507, 128.595548}
+06-30 19:15:15.516 15411-15411/com.fitogether.ohcoach I/Database: (width,height) : (10258, 7132)
